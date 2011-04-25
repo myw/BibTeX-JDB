@@ -17,9 +17,9 @@ doesn't?), but IMHO, it makes the job easier.
 Different journals and books require journal names in references to follow
 different conventions. Of these, there are generally three classes:
 
-	1. Full: _The Journal of Physical Chemistry_
-	2. Abbreviated, with periods: _J. Phys. Chem._
-	3. Abbreviated, without periods: _J Phys Chem_
+1. Full: _The Journal of Physical Chemistry_
+2. Abbreviated, with periods: _J. Phys. Chem._
+3. Abbreviated, without periods: _J Phys Chem_
 
 Conversion between 2. and 3. is trivial: simply remove the periods from 2. to
 get 3. But conversion between 1. and 2. is decidedly not: because of the large
