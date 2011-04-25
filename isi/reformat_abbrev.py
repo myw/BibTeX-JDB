@@ -105,9 +105,9 @@ def test_word(word):
 
     Must already be lowercase. Wordlist must also be loaded."""
     # My wordlist does not contain plurals
-    if len(word > 2) and word[-1] == 's' and word[-2] == 'e':
+    if len(word) > 2 and word[-1] == 's' and word[-2] == 'e':
         return word[0:-2] in _wordlist or word[0:-1] in _wordlist or word in _wordlist
-    elif len(word > 1) and word[-1] == 's':
+    elif len(word) > 1 and word[-1] == 's':
         return word[0:-1] in _wordlist or word in _wordlist
     else:
         return word in _wordlist
