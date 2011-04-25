@@ -1,0 +1,41 @@
+MACRO{acchrs} {"Acc. Chem. Res"}
+MACRO{adprch} {"Adv. Prot. Chem."}
+MACRO{anrvbbs} {"Annu. Rev. Biophys. Biomol. Struct."}
+MACRO{anrvim} {"Annu. Rev. Immunol."}
+MACRO{biochj} {"Biochem. J."}
+MACRO{bioch} {"Biochemistry"}
+MACRO{bioph} {"Biophys. Chem."}
+MACRO{biopol} {"Biopolymers"}
+MACRO{cell} {"Cell"}
+MACRO{chrv} {"Chem. Rev."}
+MACRO{cpl} {"Chem. Phys. Lett"}
+MACRO{cropim} {"Curr. Opin. Immunol."}
+MACRO{cyth} {"Cytotherapy"}
+MACRO{embo} {"EMBO J."}
+MACRO{imrv} {"Immunol. Rev."}
+MACRO{imtd} {"Immunol. Tod."}
+MACRO{im} {"Immunity"}
+MACRO{jacs} {"J. Am. Chem. Soc."}
+MACRO{jbc} {"J. Biol. Chem."}
+MACRO{jcc} {"J. Comput. Chem."}
+MACRO{jcmph} {"J. Comput. Phys."}
+MACRO{jcp} {"J. Chem. Phys."}
+MACRO{jem} {"J. Exp. Med."}
+MACRO{jimgen} {"J. Immunogenet."}
+MACRO{ji} {"J. Immunol."}
+MACRO{jmb} {"J. Mol. Biol."}
+MACRO{jmgr} {"J. Mol. Graph."}
+MACRO{jmrec} {"J. Mol. Recognit."}
+MACRO{jpcb} {"J. Phys. Chem. B"}
+MACRO{jpc} {"J. Phys. Chem."}
+MACRO{mim} {"Mol. Immunol."}
+MACRO{mph} {"Mol. Phys."}
+MACRO{nat} {"Nature"}
+MACRO{ni} {"Nat. Immunol."}
+MACRO{nrvi} {"Nat. Rev. Immunol."}
+MACRO{nsb} {"Nat. Struct. Biol."}
+MACRO{pnas} {"Proc. Natl. Acad. Sci. USA"}
+MACRO{pra} {"Phys. Rev. A"}
+MACRO{pre} {"Phys. Rev. E"}
+MACRO{pr} {"Prot. Struct. Func. Bioinf."}
+MACRO{sci} {"Science"}
