@@ -23,8 +23,9 @@ _uncap_words = set([
     'till', 'to', 'up', 'upon', 'via', 'with', 'cum', 'per', 'qua', 'sans',
     'unto', 'ago', 'away'
 ])
-_foriegn_words = set([Zhurnal, Zentralblatt 
+_foriegn_words = set([])
     
+
 _used_keys = {}
 
 
